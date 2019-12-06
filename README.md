@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+  express middleware and server side routing
+
 - [ ] Describe Middleware?
+
+  middleware can add extra functionality to our application. Middleware provides a way to extend the features provided by the Express framework.
 
 - [ ] Describe a Resource?
 
+  Basically another word for data. It's whatever we put on our server
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+  Status codes. A successfully completed task returns a status code in the 200s.
+
 - [ ] How can we partition our application into sub-applications?
+
+  By using express routing and connecting everything properly
 
 ## Minimum Viable Product
 
